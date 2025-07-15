@@ -1,0 +1,2 @@
+# RSSagg
+resource aggregator
